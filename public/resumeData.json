@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name": "Marina Torres",
+    "description": "From Brazil and based in London, I have over five years of experience in journalism and content production on the beats of economics, politics, sustainability, and entertainment.",
+    "image": "image.png",
+    "bio": "I’m Marina, a journalist with over five years of experience in covering economics, politics, sustainability, and entertainment. My work has been featured in Poder360, beanz magazine, Correio Braziliense, Jornal de Brasília, Downstage, and O Estado de S. Paulo. In my free time, I volunteer for educational and environmental causes, helping non-profits achieve their goals. Check out my portfolio at: https://marinatorres.journoportfolio.com",
+    "contactmessage": "Feel free to reach out to me for collaboration or consultation.",
+    "email": "marina.torres@example.com",
+    "github": "https://github.com/marinatorres",
+    "resumedownload": "https://drive.google.com/file/d/1examplelink/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/marinatowers",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/marinatorres",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "City, University of London",
+        "degree": "Master of Arts - MA, Erasmus Mundus Journalism Programme - Journalism, Media and Globalisation",
+        "graduated": "June 2024",
+        "description": "Focus on Journalism of Business and Innovation. Research on journalistic roles and immigration, companies and markets reports and stories, data journalism (R, D3, and Excel), and global political economy theory. Activities and societies: Marketing Student Ambassador (2023-2024). Skills: Journalism (C2)."
+      },
+      {
+        "school": "Aarhus University",
+        "degree": "Master of Arts - MA, Erasmus Mundus Journalism Programme - Journalism, Media and Globalisation",
+        "graduated": "June 2023",
+        "description": "Research paper: Midia Ninja and G1: a deeper look into citizen journalism and traditional journalism in the coverage of the January 8th events in Brazil. Activities and societies: Student Ambassador 2023. Skills: Journalism, Digital Journalism (C2), Microsoft Excel, Communication Theory."
+      },
+      {
+        "school": "Danmarks Medie- og Journalisthøjskole",
+        "degree": "Master's degree, Journalism, Media and Globalization",
+        "graduated": "June 2023",
+        "description": "Production of two webdocumentaries, a featured story, and a journalistic explainer. Skills: Journalism, Digital Journalism, Web Content Creation, Webdocumentary (C2)."
+      },
+      {
+        "school": "University of California, Berkeley",
+        "degree": "Berkeley International Student Program, Letters and Science",
+        "graduated": "2019",
+        "description": "Media Studies and classes at the Sociology undergraduate department. Research on virtual communities, mass communication in telenovelas, and history and development of online news. Activities and societies: BISP Alumni Panel speaker (2021), BISP Spotlight Photo Challenge Awardee. Skills: Journalism, Marketing, Digital Journalism (C2), Sociology."
+      },
+      {
+        "school": "ESPM Escola Superior de Propaganda e Marketing",
+        "degree": "Pós-graduação Lato Sensu - MBA, Produção e Criação de conteúdos digitais",
+        "graduated": "August 2022",
+        "description": "Áreas de estudo: Fundações do Marketing; Monitoramento de Mídias Sociais; SEO e SEM; UX e UI; E-commerce e plataformas digitais; Neuromarketing. Skills: Marketing, SEO, SEM, UX, Neuromarketing."
+      },
+      {
+        "school": "UniCEUB - Centro Universitário de Brasília",
+        "degree": "Bachelor's degree, Jornalismo",
+        "graduated": "2020",
+        "description": "Recipient of a 100% merit scholarship. Editor in chief and designer of the book “Quando O Mundo Parou” and the “Primeira Impressão” newspaper. Editor of the magazine “Novo Olhar”. Activities and societies: Reporter at Agência de Notícias (2018-2020). Skills: Journalism."
+      }
+    ],
+    "work": [
+      {
+        "company": "Poder360",
+        "title": "International Writer",
+        "years": "November 2024 - Present",
+        "description": "Reporting on economics and politics of national/international affairs. Skills: Journalism."
+      },
+      {
+        "company": "Self-employed",
+        "title": "Freelancer",
+        "years": "April 2022 - September 2024",
+        "description": "Worked as a freelance writer, mentor, and content strategist for various companies including Zuck Experts, Kodus, and Estadão while pursuing my masters."
+      },
+      {
+        "company": "beanz (Kids STEM/STEAM Magazine)",
+        "title": "Writer",
+        "years": "September 2023 - June 2024",
+        "description": "Staff Writer in the award-winning magazine that focuses on inspiring kids with STEM/STEAM stories. Skills: Journalism."
+      },
+      {
+        "company": "Downstage",
+        "title": "Reporter",
+        "years": "August 2021 - September 2023",
+        "description": "Conducted interviews, wrote features, and reviewed albums in the music segment. Skills: Journalism."
+      },
+      {
+        "company": "Favo",
+        "title": "Copywriter",
+        "years": "November 2021 - April 2022",
+        "description": "B2B2C Content Strategy and Creation, Email and CRM Marketing, WhatsApp and Paid Ads Copywriter, UX Writing for App, Landpage designer. Skills: Copywriting, Marketing."
+      },
+      {
+        "company": "SiliconVal.ly Institute",
+        "title": "Content Manager",
+        "years": "August 2020 - November 2021",
+        "description": "Led Editorial and Reach and Distribution teams, developed editorial guidelines, created B2B content on Food Innovation and Sustainability, SEO and UX Writing for blogs. Skills: Marketing."
+      },
+      {
+        "company": "UniCEUB - Centro Universitário de Brasília",
+        "title": "Reporter",
+        "years": "March 2018 - December 2020",
+        "description": "Produced articles for the News Agency on human rights, climate change, and macroeconomics. Articles published in Jornal de Brasília and Jornal do Entorno. Skills: Journalism."
+      },
+      {
+        "company": "Correio Braziliense",
+        "title": "Reporter",
+        "years": "January 2019 - August 2019",
+        "description": "Produced articles for the news media website and newspaper on Economics, Politics, and National coverage. Skills: Journalism."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Journalism",
+        "level": "90%"
+      },
+      {
+        "name": "Copywriting",
+        "level": "80%"
+      },
+      {
+        "name": "Marketing",
+        "level": "75%"
+      },
+      {
+        "name": "Content Strategy",
+        "level": "85%"
+      },
+      {
+        "name": "SEO",
+        "level": "70%"
+      },
+      {
+        "name": "UX Writing",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Economics and Politics Reporting",
+        "description": "Reporting on national and international affairs for Poder360.",
+        "category": "Journalism",
+        "image": "01.jpg",
+        "url": "https://www.poder360.com.br"
+      },
+      {
+        "title": "STEM/STEAM Stories",
+        "description": "Writing inspiring stories for kids in beanz magazine.",
+        "category": "Journalism",
+        "image": "02.jpg",
+        "url": "https://www.kidscodecs.com/beanz"
+      },
+      {
+        "title": "Music Features and Reviews",
+        "description": "Interviews and reviews in the music segment for Downstage.",
+        "category": "Journalism",
+        "image": "03.jpg",
+        "url": "https://www.downstage.com"
+      }
+    ]
+  }
+}
