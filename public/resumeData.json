@@ -6,18 +6,13 @@
     "bio": "I’m Marina, a journalist with over five years of experience in covering economics, politics, sustainability, and entertainment. My work has been featured in Poder360, beanz magazine, Correio Braziliense, Jornal de Brasília, Downstage, and O Estado de S. Paulo. In my free time, I volunteer for educational and environmental causes, helping non-profits achieve their goals. Check out my portfolio at: https://marinatorres.journoportfolio.com",
     "contactmessage": "Feel free to reach out to me for collaboration or consultation.",
     "email": "marina.torres@example.com",
-    "github": "https://github.com/marinatorres",
-    "resumedownload": "https://drive.google.com/file/d/1examplelink/view?usp=sharing",
+    "github": "https://marinatorres.journoportfolio.com/",
+    "resumedownload": "https://media.journoportfolio.com/users/379141/uploads/2dd895c7-acea-4be1-b740-a3e0d03f3c86.pdf",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://linkedin.com/in/marinatowers",
+        "url": "https://www.linkedin.com/in/marinatwrs/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/marinatorres",
-        "className": "fa fa-github"
       }
     ]
   },
